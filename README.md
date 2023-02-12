@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido como exercício do curso [React - Beginner to Adva
 
 - 🚀 React
 - 🚀 React Hooks
+- 🚀 React Icons
 - 🚀 CSS
 - 🚀 SCSS
 ## Telas 
