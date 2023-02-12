@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+# React Animated Login
+
+<p align="center">
+ <a href="#sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#funcionalidades-do-projeto">Funcionalidades do projeto</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
+ <a href="#telas">Telas</a> • 
+ <a href="#inicializando">Inicializando</a>
+</p> 
+
+## Sobre o projeto
+
+Esse projeto foi desenvolvido como exercício do curso [React - Beginner to Advanced (+ Redux & Ecommerce App)](https://www.udemy.com/course/react-beginner-to-advanced-with-redux-ecommerce-app/), com algumas modificações no layout.
+
+## Funcionalidades do projeto
+
+<ul>
+<li>Telas de cadastro, login e restaurar senha ✅</li>
+<li>Animações com CSS ✅</li>
+<li>Botão mostar/esconder senha ✅</li>
+<li>Validações de senha ✅</li>
+</ul>
+
+## Tecnologias utilizadas
+
+- 🚀 React
+- 🚀 React Hooks
+- 🚀 CSS
+- 🚀 SCSS
+## Telas 
+<img src="src/assets/readme/validacao.gif" />
+<img src="src/assets/readme/senha.gif" />
+<img src="src/assets/readme/telas.gif" />
+
+
+## Inicializando
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
