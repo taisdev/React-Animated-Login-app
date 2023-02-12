@@ -57,10 +57,8 @@ const Register = ({ onLogin }) => {
     // senha completa
     if (passNumber && passLetter && passChar && passLength) {
       setPassComplete(true);
-      setShowPasswordRules(false);
     } else {
       setPassComplete(false);
-      setShowPasswordRules(true);
     }
   }, [pass, passLetter, passNumber, passChar, passLength]);
 

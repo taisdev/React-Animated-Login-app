@@ -19,7 +19,7 @@ const Login = ({ onRegister, onReset }) => {
           <h2 className="--color-palette --text-center --m2">Login</h2>
          <input type="text" className="inputs --width-100" placeholder="Usuário" />
          <div className="password">
-         <input type={showPassword ? "password" : "text"} className="inputs --width-100" placeholder="Senha" />
+         <input type={showPassword ? "text" : "password"} className="inputs --width-100" placeholder="Senha" />
          <span className="icon" onClick={handleTogglePassword}>
           {showPassword ? <AiOutlineEye size="15" color="#BA68C8"/> : <AiOutlineEyeInvisible size="15" color="#BA68C8"/>}
          </span>
