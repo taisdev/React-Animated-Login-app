@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido como exercício do curso [React - Beginner to Adva
 - 🚀 React
 - 🚀 React Hooks
 - 🚀 React Icons
-- 🚀 CSS
-- 🚀 SCSS
+- 🚀 CSS/SCSS
+
 ## Telas 
 <img src="src/assets/readme/validacao.gif" />
 <img src="src/assets/readme/senha.gif" />
